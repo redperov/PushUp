@@ -27,6 +27,8 @@ public class MainActivity extends ActionBarActivity {
 
     private void TestUpload() {
         int i = 1;
+
+        int ii = 2;
     }
 
 
